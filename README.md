@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 Create a dart game tracking fun app
+This app is no longer in use 
+This app should be archived
+All pertinent information has been moved to the portfolio
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
